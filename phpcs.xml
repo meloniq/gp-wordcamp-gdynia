@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="GP WordCamp Gdynia">
+	<description>GP WordCamp Gdynia rules for PHP_CodeSniffer</description>
+
+	<rule ref="WordPress">
+	</rule>
+</ruleset>
