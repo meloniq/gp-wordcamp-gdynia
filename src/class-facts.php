@@ -41,9 +41,9 @@ class Facts {
 	 */
 	public function get_random_fact() {
 		$facts = array(
-			__( 'GlotPress was created in 2007 by Mike Schroder and is now maintained by the WordPress community.', 'gp-wordcamp-gdynia' ),
-			__( 'GlotPress is built using PHP and follows the MVC (Model-View-Controller) architectural pattern.', 'gp-wordcamp-gdynia' ),
-			__( 'GlotPress supports multiple file formats for translation, including .po, .mo, .json, and .yaml.', 'gp-wordcamp-gdynia' ),
+			__( 'GlotPress was started in 2008 by Nikolay Bachiyski and is now maintained by the WordPress community.', 'gp-wordcamp-gdynia' ),
+			__( 'GlotPress is built using PHP and the WordPress framework.', 'gp-wordcamp-gdynia' ),
+			__( 'GlotPress supports multiple file formats for translation, including .po, .mo, .php, and .json.', 'gp-wordcamp-gdynia' ),
 			__( 'GlotPress allows collaborative translation efforts, enabling multiple translators to work on the same project simultaneously.', 'gp-wordcamp-gdynia' ),
 			__( 'GlotPress has a robust permission system that allows administrators to control access to projects and translations.', 'gp-wordcamp-gdynia' ),
 			__( 'GlotPress can be extended with plugins to add new features or modify existing functionality.', 'gp-wordcamp-gdynia' ),
